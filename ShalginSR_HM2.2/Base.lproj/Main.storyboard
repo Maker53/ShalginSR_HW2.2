@@ -86,7 +86,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="cZ6-ew-OtX" secondAttribute="trailing" constant="20" id="6xM-sM-XKl"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="pRV-rb-9xV" secondAttribute="trailing" constant="20" id="7ju-3x-UMl"/>
                             <constraint firstItem="pRV-rb-9xV" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="30" id="FfT-32-7kH"/>
-                            <constraint firstItem="cZ6-ew-OtX" firstAttribute="height" relation="greaterThanOrEqual" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.139509" id="Ref-jB-uKz"/>
+                            <constraint firstItem="cZ6-ew-OtX" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.139509" id="Ref-jB-uKz"/>
                             <constraint firstItem="cZ6-ew-OtX" firstAttribute="top" secondItem="pRV-rb-9xV" secondAttribute="bottom" constant="40" id="X6O-Wa-9EO"/>
                             <constraint firstItem="cZ6-ew-OtX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="dtJ-3g-yYH"/>
                             <constraint firstItem="pRV-rb-9xV" firstAttribute="height" relation="greaterThanOrEqual" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.223214" constant="-50" id="fhA-La-U6d"/>
